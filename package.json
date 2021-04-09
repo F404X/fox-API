@@ -3,13 +3,26 @@
   "version": "1.0.0",
   "description": "An simple API!",
   "main": "index.js",
-  "scripts": {
-    "test": "node index.js"
-  },
-  "author": "Supreme-fox",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
     "fs": "*"
-  }
+  },
+
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index"
+  },
+
+  "repository": {
+	"type": "git",
+	"url": "git+https://github.com/Foxythefox2020/fox-API.git"
+  },
+
+  "author": "Supreme-fox",
+  "license": "ISC",
+  "bugs": {
+	"url": "https://github.com/Foxythefox2020/fox-API/issues"
+  },
+  "homepage": "https://github.com/Foxythefox2020/fox-API#readme",
+  "keywords": []
 }
