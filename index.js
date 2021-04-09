@@ -6,9 +6,7 @@ const PORT = process.env.PORT || 1313;
 
 app.get('/sobre', (req, res) => {
 	res.json({
-		creditos [
-			criador: 'Fox'
-		]
+		criador: 'Fox'
 	})
 })
 
